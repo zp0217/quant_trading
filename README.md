@@ -155,9 +155,9 @@ python main.py --dashboard
 
 ### Note for Windows Users
 
-# Clone the repository
-```bash
 
+```bash
+# Clone the repository
 git clone https://github.com/yourusername/algotrade-terminal.git
 cd algotrade-terminal
 
@@ -193,29 +193,29 @@ python main.py --dashboard
 
 ```text
 trading_final_version/
-├── main.py
-├── requirements.txt
-├── README.md
-├── data/
-│   ├── __init__.py
-│   └── fetcher.py
-├── strategies/
-│   ├── __init__.py
-│   ├── momentum.py
-│   ├── bollinger.py
-│   └── rsi.py
-├── models/
-│   ├── __init__.py
-│   ├── lstm_model.py
-│   ├── gru_model.py
-│   └── arima_model.py
-├── portfolio/
-│   ├── __init__.py
-│   ├── optimizer.py
-│   └── paper_trading.py
-├── utils/
-│   ├── __init__.py
-│   └── metrics.py
-└── dashboard/
-    ├── __init__.py
-    └── app.py
+|-- main.py
+|-- requirements.txt
+|-- README.md
+|-- data/
+|   |-- __init__.py
+|   `-- fetcher.py
+|-- strategies/
+|   |-- __init__.py
+|   |-- momentum.py
+|   |-- bollinger.py
+|   `-- rsi.py
+|-- models/
+|   |-- __init__.py
+|   |-- lstm_model.py
+|   |-- gru_model.py
+|   `-- arima_model.py
+|-- portfolio/
+|   |-- __init__.py
+|   |-- optimizer.py
+|   `-- paper_trading.py
+|-- utils/
+|   |-- __init__.py
+|   `-- metrics.py
+`-- dashboard/
+    |-- __init__.py
+    `-- app.py
