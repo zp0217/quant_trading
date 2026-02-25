@@ -191,6 +191,7 @@ python main.py --dashboard
 
 ## Project Structure
 
+```
 trading_final_version/
 ├── main.py
 ├── requirements.txt
@@ -218,3 +219,5 @@ trading_final_version/
 └── dashboard/
     ├── __init__.py
     └── app.py
+
+```
