@@ -191,14 +191,6 @@ python main.py --dashboard
 
 ## Project Structure
 
-## Project Structure
-
-> GitHub README에서는 트리 구조에 긴 설명을 같은 줄에 많이 붙이면 줄바꿈/정렬이 깨질 수 있어서,  
-> 아래처럼 **구조(tree)** 와 **설명(details)** 를 분리하면 깔끔하게 보입니다.
-
-### Directory Tree
-
-```text
 trading_final_version/
 ├── main.py
 ├── requirements.txt
