@@ -110,8 +110,8 @@ This project also aligns with my ongoing CFA exam preparation. It provides an op
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/algotrade-terminal.git
-cd algotrade-terminal
+git clone https://github.com/zp0217/quant_trading.git
+cd quant_trading
 
 # Install dependencies
 pip install -r requirements.txt
